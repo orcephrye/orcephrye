@@ -15,7 +15,7 @@ I am a software developer, gamer, tech enthusiast. I love to work within the GNU
 time. I biggest hobby perhaps is the development of my own Pen&Paper RPG game called [d20 Future Path](http://d20futurepath.com/index.php?title=FuturePath). It is also an excellent example of how I merge my different hobbies as I also built a RESTful API for the game. 
 
 In my work life, I followed my passionate belief that technology should be an extension of the will of its user. 
-Therefore, good code works for its users. And I have helped different customers by providing Autoamtions and Work Load reduce tools 
+Therefore, good code works for its users. And I have helped different customers by providing Autoamtions and Work Load Reduction tools 
 so they can achieve their goals with less effort allowing them to focus on what matters for their business.
 
 ---
