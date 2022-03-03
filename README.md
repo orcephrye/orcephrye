@@ -1,7 +1,5 @@
 <h1 align='center'> Hi, I'm Ryan 👋 !!! </h1>
 
-----
-
 <p align='center'>
   I live in San Antonio, Texas <br> 📫  Feel free to reach out via:
 </p>
