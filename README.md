@@ -46,7 +46,7 @@ so they can achieve their goals with less effort allowing them to focus on what 
 - 💬 Ask me about ...
   - [d20 Future Path](http://d20futurepath.com/index.php?title=FuturePath) - A Custom and OpenSource Sci-fi themed Pen&Paper Roll Playing Game. (Still in development)
   - [PyController](https://github.com/orcephrye/PyController) - A Python based key mapping tool for game controllers on Linux.
-  - [PyLinuxDiagnosticToolKit](https://github.com/orcephrye/PyLinuxDiagnosticToolKit) - A developer focused toolkit for interacting with remote Linux environments designed to make automation easy
+  - [PyLinuxDiagnosticToolKit](https://github.com/orcephrye/PyLinuxDiagnosticToolKit) - A developer focused toolkit for interacting with remote Linux environments in Python that is designed to make automation easy
 
 <!--
 **orcephrye/orcephrye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
